@@ -1,16 +1,17 @@
 body {
     background-color: black;
     color: white;
-}
-body {
     font-family:"Chakara Petch", sans-serif;
+    margin: 0px;
 }
+
 h1 {
     font-size: 40px;
     text-align: center;
 }
 p {
-       font-size: 20px; }
+       font-size: 20px; 
+    }
 header {
     font-size: 40px;  
     text-align: center;
