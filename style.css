@@ -29,3 +29,7 @@ section{
 .chamada-texto {
     margin-right: 5%;
 }
+
+.categoria-video {
+    display: flex;
+}
