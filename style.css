@@ -35,3 +35,7 @@ section{
     overflow: auto;
     gap:20xp;
 }
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
