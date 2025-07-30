@@ -24,6 +24,7 @@ header {
 section{
     background: rgb(56, 3, 114);
     justify-content: center;
+    display: flex;
 }
 .chamada-texto {
     margin-right: 5%;
